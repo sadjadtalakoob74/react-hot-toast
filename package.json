@@ -24,7 +24,8 @@
       "types": "./headless/index.d.ts",
       "import": "./headless/index.mjs",
       "require": "./headless/index.js"
-    }
+    },
+    "./src/*": "./src/*"
   },
   "files": [
     "headless",
